@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\bin\Debug\net6.0\Exercicio2Polimorfismo.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\bin\Debug\net6.0\Exercicio2Polimorfismo.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\bin\Debug\net6.0\Exercicio2Polimorfismo.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\bin\Debug\net6.0\Exercicio2Polimorfismo.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\bin\Debug\net6.0\Exercicio2Polimorfismo.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\refint\Exercicio2Polimorfismo.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\Exercicio2Polimorfismo.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\Exercicio2Polimorfismo\Exercicio2Polimorfismo\obj\Debug\net6.0\ref\Exercicio2Polimorfismo.dll
